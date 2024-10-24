@@ -4,6 +4,10 @@
 
 https://drive.google.com/file/d/1tMe-jXVAQYaHNJDQDiks3EXThVD4hjXr/view?usp=drive_link
 
+### Final Code
+
+The final code is in the branch `workshop-end`: https://github.com/Spyna/tdd-workshop/tree/workshop-end
+
 ### Rules:
 
 1. Add a small test.
